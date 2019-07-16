@@ -3,8 +3,6 @@
 
 This project implements face-swapping using two approaches - a traditional geometric approach using thin plate splines for face warping, and secondly using [PRNet](https://github.com/YadiraF/PRNet).
 
-<![rambo](https://github.com/aqurilla/faceswap-tps-dl/blob/master/Data/images/ramboTPS1.jpg)>
-
 ## With TPS approach
 
 `WrapperTPS.py` contains code to run face-swapping using the thin plate spline technique for warping
