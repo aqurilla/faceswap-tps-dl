@@ -23,9 +23,11 @@ The program takes the following command line arguments-
 ```
 
 e.g. Swapping two faces in single video
+
 `$ python WrapperTPS.py --swapmode=2 --videofilepath='../Data/video1.mp4'`
 
 e.g. Swapping single face in video with face from image file
+
 `$ python WrapperTPS.py --swapmode=1 --videofilepath='../Data/video1.mp4' --image2filepath='../Data/TestSet_P2/Rambo.jpg'`
 
 ## With PRNet approach
@@ -45,4 +47,5 @@ The program takes the following command line arguments,
 ```
 
 e.g.
+
 `$ python WrapperPRNet.py`
